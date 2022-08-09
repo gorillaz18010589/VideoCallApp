@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30848365975",
+    "project_id": "android-video-call-aa7da",
+    "storage_bucket": "android-video-call-aa7da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30848365975:android:704c83da0551ea5fec00d2",
+        "android_client_info": {
+          "package_name": "com.wen.reverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30848365975-tp2rbr9iqjlhi5uasmb776emll3canmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGnoRCgtLH9mN5hskVAV2lamu2RWzAQN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30848365975-tp2rbr9iqjlhi5uasmb776emll3canmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
